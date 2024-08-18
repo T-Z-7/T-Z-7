@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @T-Z-7
-- 👀 I’m interested in softwere enginering.
+- 👀 I’m interested in softwere engineering.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to get a job.
-- 📫 You can connect me wth tmin75828@gmail.com
+- 📫 You can connect me with tmin75828@gmail.com
 - 😄 Currently, I'm study at the Auston University.
 - ⚡ Higher Diploma in Infrastructure and Network.
 
